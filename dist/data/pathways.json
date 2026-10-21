@@ -1,0 +1,353 @@
+{
+  "reviewed": "October 19, 2026",
+  "records": [
+    {
+      "id": "health-science",
+      "name": "Health & biomedical science",
+      "icon": "✚",
+      "intro": "Explore patient care, biomedical learning, and health-related study.",
+      "offerings": {
+        "irving": [
+          "Biomedical Science"
+        ],
+        "singley": [
+          "Nursing Science",
+          "Physical Therapy",
+          "Dental",
+          "Emergency Medical – EMT"
+        ],
+        "south-irving-collegiate": [
+          "Associate of Science in Nursing pathway"
+        ]
+      },
+      "questions": [
+        "Which prerequisites apply to my selected health pathway?",
+        "Are clinical experiences or certifications available for my grade?"
+      ]
+    },
+    {
+      "id": "engineering",
+      "name": "Engineering & the built world",
+      "icon": "⌁",
+      "intro": "Connect design and problem solving with structures, systems, and manufacturing.",
+      "offerings": {
+        "macarthur": [
+          "Architecture",
+          "Construction",
+          "Engineering",
+          "Welding"
+        ],
+        "nimitz": [
+          "Sustainable Engineering"
+        ],
+        "singley": [
+          "Robotic Manufacturing"
+        ]
+      },
+      "questions": [
+        "Which math and science courses should I plan first?",
+        "What projects and lab experiences are part of this pathway?"
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "Computer science & technology",
+      "icon": "⌘",
+      "intro": "Explore programming, computing systems, digital technology, and cybersecurity.",
+      "offerings": {
+        "irving": [
+          "Computer Science"
+        ],
+        "macarthur": [
+          "Computer Science"
+        ],
+        "nimitz": [
+          "Computer Science"
+        ],
+        "singley": [
+          "Cybersecurity",
+          "Programming and Digital Technology",
+          "Technology Support Services"
+        ]
+      },
+      "questions": [
+        "What is the recommended first course?",
+        "Which certifications or college-credit options are available?"
+      ]
+    },
+    {
+      "id": "business",
+      "name": "Business & entrepreneurship",
+      "icon": "↗",
+      "intro": "Build an understanding of organizations, commerce, marketing, and enterprise.",
+      "offerings": {
+        "irving": [
+          "Business Management",
+          "Marketing and Sales"
+        ],
+        "macarthur": [
+          "Administrative Management",
+          "Entrepreneurship",
+          "Real Estate Marketing",
+          "Sales Management"
+        ],
+        "nimitz": [
+          "Business Management",
+          "Marketing and Sales"
+        ],
+        "cardwell": [
+          "Business Management"
+        ]
+      },
+      "questions": [
+        "How do business and marketing course sequences differ?",
+        "Are there student enterprises or work-based learning options?"
+      ]
+    },
+    {
+      "id": "creative-media",
+      "name": "Creative media & studio arts",
+      "icon": "◒",
+      "intro": "Explore visual communication, media production, and creative practice.",
+      "offerings": {
+        "irving": [
+          "Graphic Design",
+          "Digital Communication"
+        ],
+        "macarthur": [
+          "Graphic Design",
+          "Digital Communication"
+        ],
+        "nimitz": [
+          "Graphic Design",
+          "Digital Communication"
+        ],
+        "singley": [
+          "Studio Arts (school-of-choice listing)"
+        ]
+      },
+      "questions": [
+        "What portfolio work will I build?",
+        "Which media or design courses are available this year?"
+      ]
+    },
+    {
+      "id": "education",
+      "name": "Education & teaching",
+      "icon": "▤",
+      "intro": "Explore how people learn and routes toward education careers.",
+      "offerings": {
+        "irving": [
+          "Education and Training"
+        ],
+        "macarthur": [
+          "Education and Training"
+        ],
+        "nimitz": [
+          "Education and Training"
+        ],
+        "cardwell": [
+          "Early Childhood Education"
+        ],
+        "south-irving-collegiate": [
+          "Associate of Arts in Teaching pathway"
+        ]
+      },
+      "questions": [
+        "What classroom observation experiences are available?",
+        "How can these courses connect to college teacher preparation?"
+      ]
+    },
+    {
+      "id": "culinary",
+      "name": "Culinary arts & hospitality",
+      "icon": "◡",
+      "intro": "Explore food preparation, guest services, and hospitality operations.",
+      "offerings": {
+        "irving": [
+          "Culinary Arts",
+          "Hospitality Services"
+        ],
+        "macarthur": [
+          "Culinary Arts",
+          "Hospitality Services"
+        ],
+        "nimitz": [
+          "Culinary Arts",
+          "Hospitality Services"
+        ],
+        "singley": [
+          "Culinary Arts",
+          "Hospitality Services"
+        ]
+      },
+      "questions": [
+        "What laboratory or kitchen experiences are included?",
+        "Which credentials are available within the course sequence?"
+      ]
+    },
+    {
+      "id": "aviation",
+      "name": "Aviation & drones",
+      "icon": "✧",
+      "intro": "Explore aviation maintenance and the engineering behind drone systems.",
+      "offerings": {
+        "irving": [
+          "Aviation Maintenance",
+          "Drone Engineering"
+        ]
+      },
+      "questions": [
+        "Which sequence fits my aviation interests?",
+        "What are the safety, prerequisite, and certification requirements?"
+      ]
+    },
+    {
+      "id": "agriculture",
+      "name": "Agriculture & animal science",
+      "icon": "❋",
+      "intro": "Explore living systems through plant science and veterinary science.",
+      "offerings": {
+        "nimitz": [
+          "Plant Science",
+          "Veterinary Science"
+        ]
+      },
+      "questions": [
+        "What hands-on experiences are included?",
+        "What is the next course after the introductory class?"
+      ]
+    },
+    {
+      "id": "public-service",
+      "name": "Law, leadership & public service",
+      "icon": "◇",
+      "intro": "Explore service, law, leadership, and responsibility.",
+      "offerings": {
+        "singley": [
+          "Legal Studies",
+          "Law Enforcement"
+        ],
+        "irving": [
+          "Marine JROTC"
+        ],
+        "macarthur": [
+          "Army JROTC"
+        ],
+        "nimitz": [
+          "Navy JROTC"
+        ],
+        "crockett-leadership": [
+          "Leadership, service, and collaboration"
+        ]
+      },
+      "questions": [
+        "How do the law and leadership programs differ?",
+        "What service opportunities are part of the program?"
+      ]
+    },
+    {
+      "id": "skilled-trades",
+      "name": "Automotive & personal services",
+      "icon": "⚙",
+      "intro": "Explore practical career programs listed in the district high-school CTE overview.",
+      "offerings": {
+        "irving": [
+          "Automotive / Collision Repair / Diesel",
+          "Cosmetology"
+        ],
+        "macarthur": [
+          "Automotive / Collision Repair / Diesel",
+          "Cosmetology"
+        ],
+        "nimitz": [
+          "Automotive / Collision Repair / Diesel",
+          "Cosmetology"
+        ],
+        "cardwell": [
+          "Automotive / Collision Repair / Diesel",
+          "Cosmetology"
+        ]
+      },
+      "questions": [
+        "Where is instruction delivered, and is transportation provided?",
+        "What are the application, age, and licensing requirements?"
+      ]
+    },
+    {
+      "id": "early-college",
+      "name": "Early college & P-TECH",
+      "icon": "↟",
+      "intro": "Plan a route that combines high-school graduation with college coursework.",
+      "offerings": {
+        "singley-collegiate": [
+          "Associate of Arts in General Studies",
+          "Associate of Science",
+          "Up to 60 transferable college hours"
+        ],
+        "south-irving-collegiate": [
+          "Associate of Arts in Teaching",
+          "Associate of Science in Nursing",
+          "Up to 60 college-credit hours"
+        ]
+      },
+      "questions": [
+        "What college readiness requirements must I meet?",
+        "How will credits transfer to my intended college and major?"
+      ]
+    },
+    {
+      "id": "middle-school-exploration",
+      "name": "Middle-school career exploration",
+      "icon": "⊞",
+      "intro": "Explore career interests in grades 7–8 with district CTE and VILS labs. Course availability and high-school credit depend on the campus schedule.",
+      "offerings": {
+        "austin": [
+          "Career exploration through VILS labs"
+        ],
+        "bowie": [
+          "Career exploration through VILS labs"
+        ],
+        "crockett": [
+          "Career exploration through VILS labs"
+        ],
+        "de-zavala": [
+          "Career exploration through VILS labs"
+        ],
+        "houston": [
+          "Career exploration through VILS labs"
+        ],
+        "johnson": [
+          "Career exploration through VILS labs"
+        ],
+        "lamar": [
+          "Career exploration through VILS labs"
+        ],
+        "travis": [
+          "Career exploration through VILS labs"
+        ]
+      },
+      "questions": [
+        "Which middle-school courses can earn high-school credit?",
+        "How can I explore an interest before selecting a high-school pathway?"
+      ]
+    },
+    {
+      "id": "stem-academy",
+      "name": "STEM discovery",
+      "icon": "◎",
+      "intro": "Connect classroom learning with hands-on design, technology, and STEM projects.",
+      "offerings": {
+        "de-zavala-stem": [
+          "Robotics and coding",
+          "3D printing and laser cutting",
+          "Drones and digital design"
+        ]
+      },
+      "questions": [
+        "How do I apply to the STEM Academy?",
+        "How is STEM integrated across academic subjects?"
+      ]
+    }
+  ]
+}

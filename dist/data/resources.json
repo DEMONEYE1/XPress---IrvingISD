@@ -1,0 +1,149 @@
+{
+  "reviewed": "October 19, 2026",
+  "records": [
+    {
+      "id": "classlink",
+      "name": "ClassLink",
+      "category": "Learning",
+      "description": "Your district apps, in one place.",
+      "url": "https://launchpad.classlink.com/irvingtx",
+      "steps": [
+        "Open the district ClassLink launchpad.",
+        "Sign in with your district-provided credentials.",
+        "Choose the learning app you need; contact campus support if access fails."
+      ]
+    },
+    {
+      "id": "grades",
+      "name": "Grades & records",
+      "category": "Learning",
+      "description": "Find Home Access Center information and student-record guidance.",
+      "url": "https://www.irvingisd.net/departments-services/home-access-center-hac-home",
+      "steps": [
+        "Use the district HAC information page to reach the sign-in portal.",
+        "Review posted grades and available student information.",
+        "Contact your campus about account access or a record that needs correction."
+      ]
+    },
+    {
+      "id": "enrollment",
+      "name": "Enrollment & school assignment",
+      "category": "Families",
+      "description": "Find the campus assigned to your address.",
+      "url": "https://www.irvingisd.net/departments-services/registration/find-my-assigned-school",
+      "steps": [
+        "Use the official locator with your home address.",
+        "Review district registration requirements.",
+        "Contact the assigned campus for enrollment support; choice programs may require a separate application."
+      ]
+    },
+    {
+      "id": "meals",
+      "name": "School meals",
+      "category": "Daily life",
+      "description": "Menus, nutrition, and district meal information.",
+      "url": "https://www.irvingisd.net/departments-services/food-and-nutrition-services/school-meals",
+      "steps": [
+        "Check the district meal information for the current school year.",
+        "Find menus and nutrition resources.",
+        "Contact food services or your campus about dietary accommodation procedures."
+      ]
+    },
+    {
+      "id": "transportation",
+      "name": "Transportation",
+      "category": "Daily life",
+      "description": "Bus services and transportation guidance.",
+      "url": "https://www.irvingisd.net/departments-services/transportation/home",
+      "steps": [
+        "Check current transportation eligibility and route information.",
+        "Confirm pickup and drop-off details before the school day.",
+        "Use the district transportation contact for route questions."
+      ]
+    },
+    {
+      "id": "calendar",
+      "name": "District calendar",
+      "category": "Daily life",
+      "description": "School dates and district events.",
+      "url": "https://www.irvingisd.net/about-us/calendar",
+      "steps": [
+        "Open the official calendar and select the appropriate school year.",
+        "Check holidays, student days, and district events.",
+        "Confirm campus-specific events on your school’s official website."
+      ]
+    },
+    {
+      "id": "college",
+      "name": "College readiness",
+      "category": "Planning",
+      "description": "Plan admission steps with district resources.",
+      "url": "https://www.irvingisd.net/departments-services/counseling/getting-ready-for-college",
+      "steps": [
+        "Discuss your college goals with a counselor.",
+        "Build a list of colleges, programs, and application requirements.",
+        "Track admission, transcript, testing, and financial-aid tasks."
+      ]
+    },
+    {
+      "id": "financial-aid",
+      "name": "Financial aid",
+      "category": "Planning",
+      "description": "Get FAFSA and TASFA guidance.",
+      "url": "https://www.irvingisd.net/departments-services/counseling/financial-aid",
+      "steps": [
+        "Use the district guide to determine which application applies to you.",
+        "Gather the requested information using the official application instructions.",
+        "Ask your counselor about support and current graduation-related requirements."
+      ]
+    },
+    {
+      "id": "choice",
+      "name": "Schools of choice",
+      "category": "Planning",
+      "description": "Compare programs and find application guidance.",
+      "url": "https://www.irvingisd.net/families/school-choice/home",
+      "steps": [
+        "Explore the six district-listed choice entries in the school catalog.",
+        "Read the current district admissions requirements and application window.",
+        "Confirm program fit and any required steps with the choice office."
+      ]
+    },
+    {
+      "id": "counseling",
+      "name": "Counseling & student support",
+      "category": "Support",
+      "description": "Connect with school counseling services.",
+      "url": "https://www.irvingisd.net/departments-services/counseling",
+      "steps": [
+        "Use the district counseling directory to find available services.",
+        "Contact your campus counselor for academic, college, career, or student-support questions.",
+        "For time-sensitive campus concerns, call your school directly."
+      ]
+    },
+    {
+      "id": "testing",
+      "name": "College entrance testing",
+      "category": "Planning",
+      "description": "ACT, SAT, PSAT, and TSIA2 resources.",
+      "url": "https://www.irvingisd.net/departments-services/counseling/actsatpsattsia2",
+      "steps": [
+        "Review the purpose of each assessment with your counselor.",
+        "Confirm testing dates, registration, and any fee-waiver eligibility.",
+        "Use the preparation resources linked by the district."
+      ]
+    },
+    {
+      "id": "student-hub",
+      "name": "District student hub",
+      "category": "Learning",
+      "description": "A broader directory of student services.",
+      "url": "https://www.irvingisd.net/students",
+      "steps": [
+        "Browse the district’s official student links.",
+        "Use your school profile for campus-specific contacts.",
+        "Return to Xpress to keep exploring scholarships and pathways."
+      ]
+    }
+  ]
+}

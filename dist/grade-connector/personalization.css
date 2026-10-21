@@ -1,0 +1,15 @@
+/* Shared palette overrides for both the resource guide and Grade Xpress. */
+html body{background:var(--bg);color:var(--text)}
+.sidebar,.topbar,.header,.footer,.topline,.metrics article,.card,.course-card,.info-card,.planner,.scenario,.empty,.connection-strip,.setup-card,.gpa-notice,.scale-settings,.category-tile,dialog,.info-panel,.detail-block,.notice,.filters,.table-scroll,th,.tag,.course-icon{background:var(--panel);border-color:var(--line);color:var(--text)}
+.hero,.section,.hero-home{background-color:var(--bg)}
+html[data-theme] .hero:before,html[data-theme] .hero:after{opacity:.3}
+input,select,textarea{background:var(--bg);color:var(--text);border:1px solid var(--line)}
+.button,.btn,.remove-course{border-color:var(--line);color:var(--text)}
+.button.primary,.btn.primary,.save[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.brand-mark,.eyebrow,.grade-value,h1 em,.text-link,.big-icon{color:var(--accent)}
+.sidebar nav button,.sidebar-links,.privacy-note,.workspace-label,.course-card p,.card-foot,.footnote,.setup-card p,.setup-card li,.metrics small,.connection-strip strong,.scale-settings summary,.target-result,footer,footer span{color:var(--muted)}
+.sidebar nav button.active,.sidebar nav a[aria-current=page]{color:var(--accent);background:var(--bg);border-color:var(--accent)}
+.grade-bar{background:var(--line)}.grade-bar span{background:var(--accent)}
+.tag.warning{color:var(--text);background:var(--bg);border-color:var(--accent)}
+html[data-mode=light] .lead,html[data-mode=light] .card p,html[data-mode=light] .breadcrumb,html[data-mode=light] .status,html[data-mode=light] .source-line,html[data-mode=light] .detail-block p,html[data-mode=light] .footer p,html[data-mode=light] .pill{color:var(--muted)}
+.theme-shortcut{color:var(--accent)}

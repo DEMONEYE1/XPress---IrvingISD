@@ -1,0 +1,710 @@
+{
+  "reviewed": "October 19, 2026",
+  "records": [
+    {
+      "id": "anne-pfaff",
+      "name": "Anne H. Pfaff Founder’s Scholarship",
+      "amount": 2000,
+      "amount_label": "$2,000",
+      "category": "Education",
+      "campuses": [],
+      "criteria": [
+        "IISD graduating senior",
+        "Minimum GPA: 3.5",
+        "Planned study: education"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "avid",
+      "name": "AVID Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "General",
+      "campuses": [],
+      "criteria": [
+        "At least three years in AVID",
+        "Leadership in AVID or school",
+        "Plans to attend a four-year college"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "james-tews",
+      "name": "James Tews Memorial Leadership Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Arts",
+      "campuses": [
+        "macarthur"
+      ],
+      "criteria": [
+        "MacArthur High School senior",
+        "Fine arts involvement"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "janice-battles",
+      "name": "Janice Louise Battles Memorial Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Education",
+      "campuses": [
+        "macarthur",
+        "nimitz"
+      ],
+      "criteria": [
+        "MacArthur or Nimitz senior",
+        "Planned study: English or education"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "jessica-chermely",
+      "name": "Jessica Renee Chermely Scholarship",
+      "amount": 1250,
+      "amount_label": "$1,250",
+      "category": "Education",
+      "campuses": [],
+      "criteria": [
+        "Plans to become a teacher",
+        "Community service participation"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "jim-bennett",
+      "name": "Jim Bennett Dream Big Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Athletics",
+      "campuses": [
+        "irving"
+      ],
+      "criteria": [
+        "Irving High School senior",
+        "Traditional sports in junior and senior years",
+        "Minimum GPA: 2.5"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "stallion-strong",
+      "name": "Jo Carol Adamson Stallion Strong Scholarship",
+      "amount": 1500,
+      "amount_label": "$1,500",
+      "category": "Campus alumni",
+      "campuses": [
+        "stipes"
+      ],
+      "criteria": [
+        "Previously attended Stipes Elementary",
+        "Minimum GPA: 2.5"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "john-margie-stipes",
+      "name": "John & Margie Stipes Scholarship",
+      "amount": 1250,
+      "amount_label": "$1,250",
+      "category": "Athletics",
+      "campuses": [
+        "nimitz"
+      ],
+      "criteria": [
+        "Nimitz senior with junior- and senior-year athletics, athletic training, cheer, or drill team",
+        "Overall average of at least 85%",
+        "Planned study: education or athletic training"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "townley",
+      "name": "John F. and Polly Townley Endowed Scholarship",
+      "amount": 2500,
+      "amount_label": "$2,500",
+      "category": "Education",
+      "campuses": [
+        "townley"
+      ],
+      "criteria": [
+        "Attended Townley through fifth grade",
+        "Plans for education and Texas teacher certification",
+        "Leadership, service, academic record, and financial need considered"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "brandenburg",
+      "name": "John J. Brandenburg Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Campus alumni",
+      "campuses": [
+        "brandenburg"
+      ],
+      "criteria": [
+        "Brandenburg attendance in grades 1–5",
+        "Minimum GPA: 2.5; attendance: 95%",
+        "Community service"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "good-alum",
+      "name": "John R. Good Alum Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Campus alumni",
+      "campuses": [
+        "good",
+        "irving"
+      ],
+      "criteria": [
+        "Irving High School senior; at least three years at Good",
+        "Minimum GPA: 3.0; 100 service hours",
+        "School involvement and overcoming hardship"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "john-stipes",
+      "name": "John Stipes Memorial Motivational Scholarship",
+      "amount": 5000,
+      "amount_label": "$5,000",
+      "category": "General",
+      "campuses": [],
+      "criteria": [
+        "IISD graduating senior",
+        "Overcame social, economic, or personal adversity"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "ellis-athletes",
+      "name": "Joy and Ralph Ellis Scholarship for Athletes",
+      "amount": 20000,
+      "amount_label": "$20,000",
+      "category": "Athletics",
+      "campuses": [],
+      "criteria": [
+        "IISD senior with junior- and senior-year athletics",
+        "Top 40% of graduating class",
+        "College enrollment of at least 12 credit hours per semester",
+        "Varsity participation and college athletics are not required"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "judy-coyle",
+      "name": "Judy Coyle Irving ATPE Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Education",
+      "campuses": [],
+      "criteria": [
+        "Plans to study education",
+        "Academic achievement and school or community activities"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "judy-hammond",
+      "name": "Judy Hammond Memorial Athletic Scholarship",
+      "amount": 2000,
+      "amount_label": "$2,000",
+      "category": "Athletics",
+      "campuses": [],
+      "criteria": [
+        "IISD senior with junior- and senior-year athletics",
+        "Varsity participation and college athletics are not required"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "keyes-success",
+      "name": "Keyes to Success Scholarship",
+      "amount": 1250,
+      "amount_label": "$1,250",
+      "category": "Campus alumni",
+      "campuses": [
+        "keyes"
+      ],
+      "criteria": [
+        "Attended Keyes for more than two years",
+        "Minimum GPA: 2.5"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "kline-family",
+      "name": "Kline Family Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Campus alumni",
+      "campuses": [
+        "john-haley"
+      ],
+      "criteria": [
+        "At least three years at John Haley",
+        "Minimum GPA: 3.0",
+        "Community or athletics involvement"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "johnson-middle",
+      "name": "Lady Bird Johnson Middle School Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Campus alumni",
+      "campuses": [
+        "johnson"
+      ],
+      "criteria": [
+        "Previously attended Johnson Middle School",
+        "Minimum GPA: 2.5"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "cancer-center",
+      "name": "Las Colinas Cancer Center Foundation Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Health",
+      "campuses": [],
+      "criteria": [
+        "Top 10% of graduating class",
+        "Plans to pursue a medical degree"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "lindsey-lear",
+      "name": "Lindsey Lear Memorial Scholarship",
+      "amount": 3000,
+      "amount_label": "$3,000",
+      "category": "General",
+      "campuses": [
+        "irving"
+      ],
+      "criteria": [
+        "Irving High School senior",
+        "School spirit, leadership, and community involvement"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "nissan",
+      "name": "Nissan Automotive Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Trades",
+      "campuses": [],
+      "criteria": [
+        "IISD graduating senior",
+        "Minimum GPA: 2.5",
+        "Plans for automotive education; career statement required"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "nita-patrick",
+      "name": "Nita Patrick Fine Arts Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Arts",
+      "campuses": [],
+      "criteria": [
+        "B average and participation in music",
+        "Fine arts major or minor",
+        "Plans for a four-year college or junior college"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "gilbert-grizzly",
+      "name": "Once a Grizzly, Always a Grizzly Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Campus alumni",
+      "campuses": [
+        "gilbert"
+      ],
+      "criteria": [
+        "Attended Gilbert in grades 3–5"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "brown-bear",
+      "name": "Otis Brown Brown Bear Strong Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Campus alumni",
+      "campuses": [
+        "brown"
+      ],
+      "criteria": [
+        "Attended Brown Elementary for at least three years"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "lyster-academic",
+      "name": "Phyllis Lyster Memorial Academic Scholarship",
+      "amount": 1250,
+      "amount_label": "$1,250",
+      "category": "General",
+      "campuses": [
+        "irving"
+      ],
+      "criteria": [
+        "Irving High School senior",
+        "Plans for a four-year degree"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "lyster-vocational",
+      "name": "Phyllis Lyster Memorial Vocational Scholarship",
+      "amount": 1250,
+      "amount_label": "$1,250",
+      "category": "Trades",
+      "campuses": [
+        "irving"
+      ],
+      "criteria": [
+        "Irving High School senior",
+        "Plans to attend a vocational school"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "pierce",
+      "name": "Pierce Early Childhood Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Campus alumni",
+      "campuses": [
+        "pierce"
+      ],
+      "criteria": [
+        "Attended Pierce for at least one year",
+        "B average",
+        "Community service"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "randy-stipes",
+      "name": "Randy Stipes Memorial Athletic Trainer Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Health",
+      "campuses": [],
+      "criteria": [
+        "Athletic training during junior and/or senior year",
+        "Minimum GPA: 2.5",
+        "Planned study: athletic training, kinesiology, or exercise/sports field"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "de-zavala-service",
+      "name": "Raul Tapia Spirit of De Zavala Service Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Campus alumni",
+      "campuses": [
+        "de-zavala"
+      ],
+      "criteria": [
+        "At least two years at de Zavala",
+        "B average; 120 service hours",
+        "School activities"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "rebecca-gordon",
+      "name": "Rebecca Gordon Memorial Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Arts",
+      "campuses": [
+        "bowie"
+      ],
+      "criteria": [
+        "Bowie Middle School alumnus",
+        "Fine arts study",
+        "Academic record and financial need considered"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "robyn-bowling",
+      "name": "Robyn Bowling Excellence in Education Scholarship",
+      "amount": 1000,
+      "amount_label": "$1,000",
+      "category": "Education",
+      "campuses": [
+        "john-haley"
+      ],
+      "criteria": [
+        "John Haley alumnus",
+        "Plans to study education"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "robyn-noneman",
+      "name": "Robyn Noneman Memorial Scholarship",
+      "amount": 1600,
+      "amount_label": "$1,600",
+      "category": "Health",
+      "campuses": [],
+      "criteria": [
+        "Top 10% of graduating class",
+        "Plans to study nursing",
+        "Part-time employment"
+      ],
+      "provider": "Irving Schools Foundation",
+      "status": "Prior award listing",
+      "cycle": "2026 awards · next cycle unconfirmed",
+      "deadline": "Next-cycle deadline not confirmed",
+      "source": "https://irvingschoolsfoundation.org/list-of-scholarship/",
+      "apply": "https://irvingschoolsfoundation.org/programs/scholarships/",
+      "description": "A local scholarship included in the foundation’s 2026 award listing. Use these criteria to prepare, then verify the next application cycle with ISF."
+    },
+    {
+      "id": "dallas-county-promise",
+      "name": "Dallas County Promise",
+      "amount": 0,
+      "amount_label": "Tuition support",
+      "category": "College access",
+      "campuses": [],
+      "criteria": [
+        "Students at participating high schools",
+        "Complete the required Promise, college admission, and financial-aid steps",
+        "Meet program and partner-college eligibility requirements"
+      ],
+      "provider": "Dallas County Promise",
+      "status": "Verify current cycle",
+      "cycle": "Program guide",
+      "deadline": "Varies by program step and college",
+      "source": "https://www.irvingisd.net/departments-services/counseling/dallas-county-promise",
+      "apply": "https://www.irvingisd.net/departments-services/counseling/dallas-county-promise",
+      "description": "Last-dollar tuition support at participating colleges. Coverage depends on eligibility, other aid, and the selected college; it does not imply that all living expenses are covered."
+    },
+    {
+      "id": "texas-first",
+      "name": "Texas First Scholarship",
+      "amount": 0,
+      "amount_label": "Award varies",
+      "category": "College access",
+      "campuses": [],
+      "criteria": [
+        "Qualifying early high-school graduates",
+        "Meet Texas First diploma and scholarship requirements",
+        "Attend an eligible Texas institution"
+      ],
+      "provider": "Texas First",
+      "status": "Verify current cycle",
+      "cycle": "Program guide",
+      "deadline": "Confirm with school counselor",
+      "source": "https://www.irvingisd.net/departments-services/counseling/texas-first-early-hs-completion-scholarship-program",
+      "apply": "https://www.irvingisd.net/departments-services/counseling/texas-first-early-hs-completion-scholarship-program",
+      "description": "Scholarship credit for students who meet the Texas First early-graduation requirements. Plan with a counselor before changing your graduation timeline."
+    }
+  ]
+}
